@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ragha\\OneDrive\\Desktop\\\u0645\u062A\u0648\u0627\u0632\u064A\u0647\\Project_Final1\\Project_Final1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F83FDF56-2B76-4318-9B0C-46D93469AA1E}|Project_Final1\\Project_Final1.csproj|c:\\users\\ragha\\onedrive\\desktop\\\u0645\u062A\u0648\u0627\u0632\u064A\u0647\\project_final1\\project_final1\\project_final1\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83FDF56-2B76-4318-9B0C-46D93469AA1E}|Project_Final1\\Project_Final1.csproj|solutionrelative:project_final1\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83FDF56-2B76-4318-9B0C-46D93469AA1E}|Project_Final1\\Project_Final1.csproj|c:\\users\\ragha\\onedrive\\desktop\\\u0645\u062A\u0648\u0627\u0632\u064A\u0647\\project_final1\\project_final1\\project_final1\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83FDF56-2B76-4318-9B0C-46D93469AA1E}|Project_Final1\\Project_Final1.csproj|solutionrelative:project_final1\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83FDF56-2B76-4318-9B0C-46D93469AA1E}|Project_Final1\\Project_Final1.csproj|c:\\users\\ragha\\onedrive\\desktop\\\u0645\u062A\u0648\u0627\u0632\u064A\u0647\\project_final1\\project_final1\\project_final1\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83FDF56-2B76-4318-9B0C-46D93469AA1E}|Project_Final1\\Project_Final1.csproj|solutionrelative:project_final1\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83FDF56-2B76-4318-9B0C-46D93469AA1E}|Project_Final1\\Project_Final1.csproj|c:\\users\\ragha\\onedrive\\desktop\\\u0645\u062A\u0648\u0627\u0632\u064A\u0647\\project_final1\\project_final1\\project_final1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83FDF56-2B76-4318-9B0C-46D93469AA1E}|Project_Final1\\Project_Final1.csproj|solutionrelative:project_final1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83FDF56-2B76-4318-9B0C-46D93469AA1E}|Project_Final1\\Project_Final1.csproj|c:\\users\\ragha\\onedrive\\desktop\\\u0645\u062A\u0648\u0627\u0632\u064A\u0647\\project_final1\\project_final1\\project_final1\\models\\esemester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83FDF56-2B76-4318-9B0C-46D93469AA1E}|Project_Final1\\Project_Final1.csproj|solutionrelative:project_final1\\models\\esemester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83FDF56-2B76-4318-9B0C-46D93469AA1E}|Project_Final1\\Project_Final1.csproj|c:\\users\\ragha\\onedrive\\desktop\\\u0645\u062A\u0648\u0627\u0632\u064A\u0647\\project_final1\\project_final1\\project_final1\\controllers\\registerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83FDF56-2B76-4318-9B0C-46D93469AA1E}|Project_Final1\\Project_Final1.csproj|solutionrelative:project_final1\\controllers\\registerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83FDF56-2B76-4318-9B0C-46D93469AA1E}|Project_Final1\\Project_Final1.csproj|c:\\users\\ragha\\onedrive\\desktop\\\u0645\u062A\u0648\u0627\u0632\u064A\u0647\\project_final1\\project_final1\\project_final1\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F83FDF56-2B76-4318-9B0C-46D93469AA1E}|Project_Final1\\Project_Final1.csproj|solutionrelative:project_final1\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83FDF56-2B76-4318-9B0C-46D93469AA1E}|Project_Final1\\Project_Final1.csproj|c:\\users\\ragha\\onedrive\\desktop\\\u0645\u062A\u0648\u0627\u0632\u064A\u0647\\project_final1\\project_final1\\project_final1\\views\\registers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F83FDF56-2B76-4318-9B0C-46D93469AA1E}|Project_Final1\\Project_Final1.csproj|solutionrelative:project_final1\\views\\registers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 132,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\Ragha\\OneDrive\\Desktop\\\u0645\u062A\u0648\u0627\u0632\u064A\u0647\\Project_Final1\\Project_Final1\\Project_Final1\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "Project_Final1\\Models\\Register.cs",
+              "ToolTip": "C:\\Users\\Ragha\\OneDrive\\Desktop\\\u0645\u062A\u0648\u0627\u0632\u064A\u0647\\Project_Final1\\Project_Final1\\Project_Final1\\Models\\Register.cs",
+              "RelativeToolTip": "Project_Final1\\Models\\Register.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:15:09.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Ragha\\OneDrive\\Desktop\\\u0645\u062A\u0648\u0627\u0632\u064A\u0647\\Project_Final1\\Project_Final1\\Project_Final1\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Project_Final1\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Ragha\\OneDrive\\Desktop\\\u0645\u062A\u0648\u0627\u0632\u064A\u0647\\Project_Final1\\Project_Final1\\Project_Final1\\Models\\Course.cs",
+              "RelativeToolTip": "Project_Final1\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:15:05.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "eSemester.cs",
+              "DocumentMoniker": "C:\\Users\\Ragha\\OneDrive\\Desktop\\\u0645\u062A\u0648\u0627\u0632\u064A\u0647\\Project_Final1\\Project_Final1\\Project_Final1\\Models\\eSemester.cs",
+              "RelativeDocumentMoniker": "Project_Final1\\Models\\eSemester.cs",
+              "ToolTip": "C:\\Users\\Ragha\\OneDrive\\Desktop\\\u0645\u062A\u0648\u0627\u0632\u064A\u0647\\Project_Final1\\Project_Final1\\Project_Final1\\Models\\eSemester.cs",
+              "RelativeToolTip": "Project_Final1\\Models\\eSemester.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:15:02.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\Ragha\\OneDrive\\Desktop\\\u0645\u062A\u0648\u0627\u0632\u064A\u0647\\Project_Final1\\Project_Final1\\Project_Final1\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Project_Final1\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\Ragha\\OneDrive\\Desktop\\\u0645\u062A\u0648\u0627\u0632\u064A\u0647\\Project_Final1\\Project_Final1\\Project_Final1\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Project_Final1\\Controllers\\CoursesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:13:58.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ragha\\OneDrive\\Desktop\\\u0645\u062A\u0648\u0627\u0632\u064A\u0647\\Project_Final1\\Project_Final1\\Project_Final1\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Project_Final1\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Ragha\\OneDrive\\Desktop\\\u0645\u062A\u0648\u0627\u0632\u064A\u0647\\Project_Final1\\Project_Final1\\Project_Final1\\Controllers\\StudentsController.cs*",
+              "RelativeToolTip": "Project_Final1\\Controllers\\StudentsController.cs*",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCYAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:12:19.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ragha\\OneDrive\\Desktop\\\u0645\u062A\u0648\u0627\u0632\u064A\u0647\\Project_Final1\\Project_Final1\\Project_Final1\\Views\\Students\\Details.cshtml",
+              "RelativeDocumentMoniker": "Project_Final1\\Views\\Students\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Ragha\\OneDrive\\Desktop\\\u0645\u062A\u0648\u0627\u0632\u064A\u0647\\Project_Final1\\Project_Final1\\Project_Final1\\Views\\Students\\Details.cshtml",
+              "RelativeToolTip": "Project_Final1\\Views\\Students\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T12:12:10.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ragha\\OneDrive\\Desktop\\\u0645\u062A\u0648\u0627\u0632\u064A\u0647\\Project_Final1\\Project_Final1\\Project_Final1\\Views\\Registers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project_Final1\\Views\\Registers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ragha\\OneDrive\\Desktop\\\u0645\u062A\u0648\u0627\u0632\u064A\u0647\\Project_Final1\\Project_Final1\\Project_Final1\\Views\\Registers\\Index.cshtml",
+              "RelativeToolTip": "Project_Final1\\Views\\Registers\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T12:11:49.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistersController.cs",
+              "DocumentMoniker": "C:\\Users\\Ragha\\OneDrive\\Desktop\\\u0645\u062A\u0648\u0627\u0632\u064A\u0647\\Project_Final1\\Project_Final1\\Project_Final1\\Controllers\\RegistersController.cs",
+              "RelativeDocumentMoniker": "Project_Final1\\Controllers\\RegistersController.cs",
+              "ToolTip": "C:\\Users\\Ragha\\OneDrive\\Desktop\\\u0645\u062A\u0648\u0627\u0632\u064A\u0647\\Project_Final1\\Project_Final1\\Project_Final1\\Controllers\\RegistersController.cs",
+              "RelativeToolTip": "Project_Final1\\Controllers\\RegistersController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:11:25.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
